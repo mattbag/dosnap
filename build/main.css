@@ -21282,6 +21282,10 @@ ion-item {
   min-height: 50px !important;
 }
 
+ion-item-sliding {
+  background-color: #222 !important;
+}
+
 ion-content {
   background-color: #222 !important;
 }
